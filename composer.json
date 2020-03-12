@@ -1,0 +1,15 @@
+{
+    "name": "jopegue/initials-install",
+    "type": "libraty",
+    "require": {
+        "prettus/l5-repository": "^2.6",
+        "owen-it/laravel-auditing": "^9.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "João Pedro Garcia",
+            "email": "pedro.garcia09@hotmail.com"
+        }
+    ]
+}
